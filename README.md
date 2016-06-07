@@ -5,7 +5,7 @@ an app to track time for auto repair shops. This app will have a backend in an u
 ## Feature set
 
 1. Admin/Backend
-..* Database that contains all employees, and jobs
+  * Database that contains all employees, and jobs
 ....* Employee should include name, time clocked in that day, time worked for that week, jobs done that day, and other imports from tracks
 ....* A Job should include: waiting for parts, done, employee, time started, time ended, customer, and other imports from tracks
 ..* A Status board that has an editable status for each job
